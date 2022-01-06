@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TestWebAPIMP'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A21E63B1BE94C868244AA8EA113BA93 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C52FC64EA62481E86BEB15EB97A7F11 }}
           package: .
